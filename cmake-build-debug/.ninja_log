@@ -1,0 +1,17 @@
+# ninja log v5
+1	172	1676299192495295854	build.ninja	2040e4415ac83f70
+1232	1337	1676285795347768497	compresscontroller	e40b7ba98641dc35
+4	1231	1676285795232963008	CMakeFiles/compresscontroller.dir/main.cpp.o	74f2ea2400c45140
+4	1066	1676028049109581789	CMakeFiles/compresscontroller.dir/Decompress.cpp.o	6896ad5d49dc55e2
+5	1956	1675427853482289898	CMakeFiles/compresscontroller.dir/DebugController.cpp.o	64c1b590fabfcab6
+5	1011	1676026851405050326	CMakeFiles/compresscontroller.dir/Compress.cpp.o	6ce242e16b01f929
+5	1257	1676284131401299851	CMakeFiles/compresscontroller.dir/DebugHelper.cpp.o	3d21bb5ccdede2f0
+3	660	1675427907315587802	CMakeFiles/compresscontroller.dir/Node.cpp.o	4108e0c0acff9a19
+4	90	1675250046899340542	CMakeFiles/compresscontroller.dir/Model.cpp.o	a4048e3f9bb8a452
+1	166	1676299192495295854	build.ninja	2040e4415ac83f70
+3	1488	1676299193992453896	CMakeFiles/compresscontroller.dir/main.cpp.o	74f2ea2400c45140
+1488	1599	1676299194112191704	compresscontroller	36a67f210972997a
+3	1169	1676300755970731968	CMakeFiles/compresscontroller.dir/main.cpp.o	74f2ea2400c45140
+1170	1270	1676300756075653671	compresscontroller	36a67f210972997a
+5	1164	1676302348556468036	CMakeFiles/compresscontroller.dir/main.cpp.o	74f2ea2400c45140
+1164	1259	1676302348662894923	compresscontroller	36a67f210972997a
